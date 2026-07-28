@@ -89,7 +89,7 @@ a:active,a:hover,a:focus {
 	opacity: 0.8;
 }
 
-footer {padding-top:1em; text-align: center; font-size:90% !important ; }
+footer {padding-top:1em; text-align: center; font-size:90% !important ; line-height:1.3em; }
 img.topimage { display:block; margin:0 auto 2em auto; }
 
 p,
